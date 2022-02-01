@@ -6,8 +6,8 @@ $(document).ready(function(){
 
 	var marker;
 
-	var LatLng = new google.maps.LatLng(6.229738, -75.587795);
-	var markerPosition = new google.maps.LatLng(6.229738, -75.587795);
+	var LatLng = new google.maps.LatLng(59.32522, 18.07002);
+	var markerPosition = new google.maps.LatLng(59.32512, 18.069992);
 	var MY_MAPTYPE_ID = 'custom_style';
 
 	

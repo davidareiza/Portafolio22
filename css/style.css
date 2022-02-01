@@ -150,7 +150,7 @@ p {
 	width: 30%;
 	margin: 0 auto;
 	display: block;
-	background-color: #009ada;
+	background-color: #fdb913;
 }
 
 .border-left {
@@ -166,7 +166,7 @@ p {
 	height: 100%;
 	width: 20%;
 	display: block;
-	background-color: #009ada;
+	background-color: #fdb913;
 }
 
 .border-right {
@@ -183,7 +183,7 @@ p {
 	float: right;
 	width: 20%;
 	display: block;
-	background-color: #009ada;
+	background-color: #fdb913;
 }
 
 .border-small {
@@ -327,7 +327,7 @@ p {
 }
 
 .servicess-article-icon-holder:hover .servicess-article-icon-hover {
-	border-color: #009ada;
+	border-color: #fdb913;
 	-moz-transform: scale(1.28);
 	-webkit-transform: scale(1.28);
 	-o-transform: scale(1.28);
@@ -736,13 +736,13 @@ p {
 .about-me-media .fa-facebook-square,
 .about-me-media .fa-twitter-square {
 	font-size: 24px;
-	color: #009ada;
+	color: #fdb913;
 	margin-right: 10px;
 }
 
 .about-me-media .fa-envelope {
 	font-size: 20px;
-	color: #009ada;
+	color: #fdb913;
 	margin-right: 10px;
 }
 
@@ -912,7 +912,7 @@ p {
 	text-align: center;
 	line-height: 25px;
 	display: block;
-	color: #009ada;
+	color: #fdb913;
 }
 
 .news-article-title h4 {
@@ -933,14 +933,14 @@ p {
 
 .news-article-more a:hover,
 .news-article-more a:focus {
-	color: #009ada;
+	color: #fdb913;
 	text-decoration: none;
 }
 
 
 .news-article-readmore {
 	font-weight: 600;
-	color: #009ada;
+	color: #fdb913;
 	text-decoration: none;
 	font-family: 'Gloria Hallelujah', cursive;
 }
@@ -1066,7 +1066,7 @@ textarea {
 
 #submit:hover,
 #reset:hover {
-	background-color: #009ada;
+	background-color: #fdb913;
 }
 
 form {
@@ -1104,7 +1104,7 @@ address {
 	font-size: 24px;
 	float: left;
 	margin-right: 20px;
-	color: #009ada;
+	color: #fdb913;
 }
 
 #loading, 
@@ -1112,7 +1112,7 @@ address {
 	display: none;
 	width: 200px;
 	height: 100px;
-	color: #009ada;
+	color: #fdb913;
 	margin-left: 50px;
 }
 
@@ -1173,7 +1173,7 @@ address {
 }
 
 .footer-icons .fa-stack-2x {
-	color: #009ada;
+	color: #fdb913;
 }
 
 .footer-icons a {
@@ -1192,9 +1192,9 @@ address {
 
 .footer-copyright-logo {
 	background-image: url(../images/divus-logo.png);
-	background-size: 80px 61px;
-	width: 80px;
-	height: 61px;
+	background-size: 60px 41px;
+	width: 60px;
+	height: 41px;
 	margin: 0 auto;
 }
 
