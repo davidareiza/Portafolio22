@@ -145,7 +145,7 @@ $(window).resize(function(){
 
 	        $('.circle-skills').easyPieChart({
 	            easing: '',
-	            barColor: '#745b2f',
+	            barColor: '#009ada',
 				trackColor: '#1b1f24',
 				scaleColor: '',
 				scaleLength: 5,

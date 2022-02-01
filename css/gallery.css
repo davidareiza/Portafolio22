@@ -33,13 +33,13 @@
 
 #choose-portfolio ul li a.active,
 #choose-portfolio ul li a:hover {
-	color: #745b2f;
+	color: #009ada;
 	background-color: #232830;
 }
 
 #choose-portfolio ul li a:focus {
 	color: #232830;
-	background-color: #745b2f;
+	background-color: #009ada;
 }
 
 .recent-works .row {
